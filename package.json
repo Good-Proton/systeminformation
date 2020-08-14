@@ -1,5 +1,5 @@
 {
-  "name": "systeminformation",
+  "name": "@linked-helper/systeminformation",
   "version": "4.26.10",
   "description": "Simple system and OS information library",
   "license": "MIT",
